@@ -55,4 +55,4 @@ class ReigateBinsSensor(Entity):
                 print(src)
 
         put_out_bins = set(bins)
-        self._state =  '_'.join(put_out_bins);
+        self._state =  '_'.join(sorted(put_out_bins));
