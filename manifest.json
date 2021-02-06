@@ -1,5 +1,8 @@
 {
-  "domain": "reigate_bins",
+  "domain": "reigate_bins_sensor",
   "name": "Reigate Bins",
-  "requirements": ["advancedhtmlparser==9.0.1", "queryablelist==3.1.0", "requests"]
+  "requirements": ["AdvancedHTMLParser==9.0.1", "QueryableList==3.1.0", "requests"],
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": []
 }
