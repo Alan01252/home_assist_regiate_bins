@@ -1,0 +1,5 @@
+{
+  "domain": "reigate_bins",
+  "name": "Reigate Bins",
+  "requirements": ["advancedhtmlparser==9.0.1", "queryablelist==3.1.0", "requests"]
+}
